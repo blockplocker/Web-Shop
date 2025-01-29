@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\displayshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\displayshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|c:\\users\\noaha\\onedrive\\skrivbord\\webshoppen\\webshoppen\\webshoppen\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E142D-0607-454E-AA25-3B07A271095B}|WebShoppen\\WebShoppen.csproj|solutionrelative:webshoppen\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Admin.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\Admin.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Admin.cs",
+              "RelativeToolTip": "WebShoppen\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:33:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Program.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\Program.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Program.cs",
+              "RelativeToolTip": "WebShoppen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:33:14.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\ProductService.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\ProductService.cs",
+              "RelativeToolTip": "WebShoppen\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:33:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Helper.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\Helper.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\Helper.cs",
+              "RelativeToolTip": "WebShoppen\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:33:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayShop.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\DisplayShop.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\DisplayShop.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\DisplayShop.cs",
+              "RelativeToolTip": "WebShoppen\\DisplayShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:33:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebShoppen\\AuthService.cs",
+              "ToolTip": "C:\\Users\\noaha\\OneDrive\\Skrivbord\\WebShoppen\\WebShoppen\\WebShoppen\\AuthService.cs",
+              "RelativeToolTip": "WebShoppen\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:32:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
