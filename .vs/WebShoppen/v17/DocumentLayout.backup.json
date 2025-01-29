@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,7 +59,8 @@
               "RelativeToolTip": "WebShoppen\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:33:14.889Z"
+              "WhenOpened": "2025-01-29T20:33:14.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +72,8 @@
               "RelativeToolTip": "WebShoppen\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:33:14.16Z"
+              "WhenOpened": "2025-01-29T20:33:14.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +85,8 @@
               "RelativeToolTip": "WebShoppen\\Helper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:33:13.443Z"
+              "WhenOpened": "2025-01-29T20:33:13.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +98,8 @@
               "RelativeToolTip": "WebShoppen\\DisplayShop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:33:09.688Z"
+              "WhenOpened": "2025-01-29T20:33:09.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +111,12 @@
               "RelativeToolTip": "WebShoppen\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:32:59.624Z"
+              "WhenOpened": "2025-01-29T20:32:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
